@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Acerca de mi
-subtitle: Why you'd want to go on a date with me
+subtitle: Todo lo que necesitas saber.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi información básica.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Me llamo Cristina Gómez.
+- Soy estudiante de 2DAW.
 
-What else do you need?
+### Mi historia
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Para ser honesta, estoy teniendo problemas para recordarla enestos momentos.
