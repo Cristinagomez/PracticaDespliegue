@@ -1,38 +1,38 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Ejemplo de post en el blog
+subtitle: Cada post tiene también un subtítulo
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Este es un post de demostración para mostrarte cómo escribir entradas de blog con markdown.  Te recomiendo encarecidamente que [te tomes 5 minutos para aprender a escribir en markdown](https://markdowntutorial.com/) - te enseñará a transformar el texto normal en negrita/itálica/títulos/tablas/etc.
 
-**Here is some bold text**
+**Aquí hay un texto en negrita**
 
-## Here is a secondary heading
+## Aquí hay un encabezado secundario
 
-Here's a useless table:
+Aquí hay una tabla inútil:
 
-| Number | Next number | Previous number |
+| Número | Siguiente número | Número anterior |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Cinco | Seis | Cuatro |
+| Diez | Once | Nueve |
+| Siete | Ocho | Seis |
+| Dos | Tres | uno |
 
 
-How about a yummy crepe?
+¿Qué tal un delicioso crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+¡También se puede centrar!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+Aquí hay un trozo de código:
 
 ~~~
 var foo = function(x) {
@@ -41,7 +41,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+Y aquí está el mismo código con resaltado de sintaxis:
 
 ```javascript
 var foo = function(x) {
@@ -50,7 +50,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
+Y aquí está el mismo código de nuevo pero con números de línea:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -59,20 +59,20 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
+## Cajas
+Puede añadir cajas de notificación, advertencia y error de esta manera:
 
-### Notification
+### Notificación
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Esta es una caja de notificación.
 
 ### Warning
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** Esta es una caja de advertencia.
 
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** Esta es una caja de error.
