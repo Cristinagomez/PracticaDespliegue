@@ -11,4 +11,4 @@ Mi información básica.
 
 ### Mi historia
 
-Para ser honesta, estoy teniendo problemas para recordarla enestos momentos.
+Para ser honesta, estoy teniendo problemas para recordarla en estos momentos.
