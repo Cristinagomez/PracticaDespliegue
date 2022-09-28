@@ -2,8 +2,6 @@
 layout: post
 title: Práctica 1 - Despliegue de una web estática
 subtitle: Proceso de elaboración de la práctica
-gh-repo: Cristinagomez/PracticaDespliegue
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
