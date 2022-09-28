@@ -18,7 +18,8 @@ Este es un post para detallar el proceso de elaboración de la práctica 1 de la
 | Beautiful-jekyll | Git Hub Pages | 
 
 
-![Crepe](https://beautifuljekyll.com/assets/img/avatar-icon.png){: .mx-auto.d-block :}
+![jekyll](https://beautifuljekyll.com/assets/img/avatar-icon.png){: .mx-auto.d-block :}
+![git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png){: .mx-auto.d-block :}
 
 Aquí hay un trozo de código:
 
