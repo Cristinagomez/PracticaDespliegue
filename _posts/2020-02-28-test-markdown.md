@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ejemplo de post en el blog
-subtitle: Cada post tiene también un subtítulo
-gh-repo: daattali/beautiful-jekyll
+title: Práctica 1 - Despliegue de una web estática
+subtitle: Proceso de elaboración de la práctica
+gh-repo: Cristinagomez/PracticaDespliegue
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
