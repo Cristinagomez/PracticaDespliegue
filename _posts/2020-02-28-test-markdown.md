@@ -19,7 +19,7 @@ Este es un post para detallar el proceso de elaboración de la práctica 1 de la
 
 
 ![jekyll](https://beautifuljekyll.com/assets/img/avatar-icon.png){: .mx-auto.d-block :}
-![git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png){: .mx-auto.d-block :}
+![git](https://banner2.cleanpng.com/20180821/x/kisspng-github-pages-version-control-source-code-mathieu-tremblay-home-5b7c728ba5c4b9.265973831534882443679.jpg){: .mx-auto.d-block :}
 
 Aquí hay un trozo de código:
 
