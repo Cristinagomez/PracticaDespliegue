@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tenerife.
-subtitle: Información básica.
+title: Tenerife
+subtitle: Información básica
 cover-img: /assets/img/masca.jpg
 thumbnail-img: /assets/img/Tenerife1.jpg
 share-img: /assets/img/masca.jpg
