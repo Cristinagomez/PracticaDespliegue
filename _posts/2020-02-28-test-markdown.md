@@ -19,33 +19,35 @@ Este es un post para detallar el proceso de elaboración de la práctica 1 de la
 
 
 ![jekyll](https://beautifuljekyll.com/assets/img/avatar-icon.png){: .mx-auto.d-block :}
+
 ![git](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png){: .mx-auto.d-block :}
 
-Aquí hay un trozo de código:
+### Modificaciones realizadas
 
 ~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+
+Cambios en el _config.yml
+    Añadir imagen de fondo para el header y el footer.
+    Cambio en la imagen de icono.
+    Cambio en el color del texto y el fondo.
+    Eliminar la página author home.
+    Eliminar iconos del footer.
+    Vincular mi github e email a los iconos del footer.
+    Cambiar el nombre en el footer.
+    Cambiar el nombre del enlace a la web del footer.
+Cambios en el texto del index.html
+Cambios en el texto del aboutme.md
+Cambios en el contenido del post 2020-02-28-test-markdown.md.
+    Añadir imagenes nuevas.
+    Cambiar el texto.
+    Eliminar enlaces para fork, git,etc
+Cambios en el contenido del post 2020-02-26-flake-it-till-you-make-it.md
+    Cambios en la imagen y el texto.
+    
 ~~~
 
-
-
-## Cajas
-Puede añadir cajas de notificación, advertencia y error de esta manera:
-
-### Notificación
 
 {: .box-note}
-**Note:** Esta es una caja de notificación.
+**Note:** Todas las modificaciones se hicieron desde GitHub.
 
-### Warning
 
-{: .box-warning}
-**Warning:** Esta es una caja de advertencia.
-
-### Error
-
-{: .box-error}
-**Error:** Esta es una caja de error.
