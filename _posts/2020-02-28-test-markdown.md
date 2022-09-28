@@ -18,7 +18,7 @@ Este es un post para detallar el proceso de elaboración de la práctica 1 de la
 | Beautiful-jekyll | Git Hub Pages | 
 
 
-![Crepe]([https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg](https://framagit.org/uploads/-/system/project/avatar/46969/Screenshot_2019-06-28_My_website_1_.png)){: .mx-auto.d-block :}
+![Crepe](https://beautifuljekyll.com/assets/img/avatar-icon.png){: .mx-auto.d-block :}
 
 Aquí hay un trozo de código:
 
